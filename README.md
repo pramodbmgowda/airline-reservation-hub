@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Steps to Run
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/airline-reservation.git
+   git clone https://github.com/pramodbmgowda/airline-reservation-hub.git
    ```
 2. **Open in NetBeans**:
    - Open NetBeans IDE.
